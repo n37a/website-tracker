@@ -1,5 +1,5 @@
 # Website Tracker
-Tracks people who visit your website via sending a message to a Discord Webhook with info regarding the person accessing the website (Time, Ip, Location)
+Tracks people who visit your website via sending a message to a Discord Webhook with info regarding the person accessing the website (Time, Ip, Location).
 
 
 ## Warning
